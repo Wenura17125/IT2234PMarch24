@@ -61,8 +61,6 @@ let students = [
 
 | Test Case | Description | Output |
 |-----------|-------------|--------|
-| Server Setup | Basic HTTP server initialization | [View](output/serverCmd.png) |
-| Server Response | Testing server response in browser | [View](output/serverWeb.png) |
 | Postman Testing | Testing API endpoints with Postman | [View](output/postmanServer.png) |
 | Student Data | Retrieving student information | [View](output/postmanApp.png) |
 | Student by ID | Finding specific student by ID | [View](output/postmanAppStuid.png) |
